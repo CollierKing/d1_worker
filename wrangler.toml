@@ -1,0 +1,8 @@
+name = "my-project"
+main = "src/index.ts"
+compatibility_date = "2023-01-11"
+
+[[ d1_databases ]]
+binding = "d1_test_binding"
+database_name = "test_database"
+database_id = "8b698d4b-8af1-44da-b97c-77784946253c"
